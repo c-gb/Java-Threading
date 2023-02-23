@@ -8,4 +8,4 @@ public class TypeCastingImplicitExample {
 
             System.out.println( smallGlassCap + bigGlassCap);
         }
-    }
+}
